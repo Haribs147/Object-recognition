@@ -1,0 +1,6 @@
+train: C:\Users\mjago\yolo_ball\train1
+val: C:\Users\mjago\yolo_ball\valid1
+
+names: 
+  0: zielona
+  1: nozna
